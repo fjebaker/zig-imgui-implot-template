@@ -1,0 +1,17 @@
+.{
+    .name = "zig-mach-test",
+    .version = "0.0.0",
+    .dependencies = .{
+        .mach = .{
+            .url = "https://pkg.machengine.org/mach/279290bbf2f1adab0af00323280a07d6bfff47a5.tar.gz",
+            .hash = "1220ba5472217ef81455b19d540967049bbfaf768b30d04534865707e907ee1c4aec",
+        },
+        .zig_imgui = .{
+            .url = "https://github.com/fjebaker/zig-imgui-implot/archive/main.tar.gz",
+            .hash = "12200769ba71854840ec61a2f22fa796690b67fb5f466a5c5e67fe212b3b0e2855f6",
+        },
+    },
+    .paths = .{
+        "",
+    },
+}
