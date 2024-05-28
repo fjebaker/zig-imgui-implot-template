@@ -7,8 +7,8 @@
             .hash = "1220ba5472217ef81455b19d540967049bbfaf768b30d04534865707e907ee1c4aec",
         },
         .zig_imgui = .{
-            .url = "https://github.com/fjebaker/zig-imgui-implot/archive/main.tar.gz",
-            .hash = "12200769ba71854840ec61a2f22fa796690b67fb5f466a5c5e67fe212b3b0e2855f6",
+            .url = "https://github.com/fjebaker/zig-imgui-implot/archive/0e06e09cf3f80882e2967a6f22e2484c3c651310.tar.gz",
+            .hash = "12208927144647597e682bdd919b1338e73569ad0299ccc1079bdb17023965b588fb",
         },
     },
     .paths = .{
